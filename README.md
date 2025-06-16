@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?OMavrosScarface=<span style="color:red">OMavrosScarface</span>&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OMavrosScarface&show_icons=true&theme=tokyonight)
 
 ---
 
