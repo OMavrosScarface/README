@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:red">Mixalis</span></h1>
-<h3 align="center">Aspiring AI Developer | Computer Science Student |</h3>
+<h3 align="center">Aspiring AI Developer | Computer Science Student</h3>
 
 ---
 
